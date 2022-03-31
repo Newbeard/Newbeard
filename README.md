@@ -3,8 +3,6 @@
 <p>Nice to meet you!<br>
    My name is Aleksey and I'm a FullStack JS Developer.<br>
 </p>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Newbeard/&layout=compact)
   ## 🛠 My Tech Stack:
 
 <h3>Main:</h3>
